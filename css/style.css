@@ -1,0 +1,37 @@
+.all {
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    background-color: rgb(254, 224, 23);
+    padding: 10px 100px 100px 100px;
+}
+
+.right {
+    padding: 10px 100px 100px 100px;
+}
+
+.left h2 {
+    color: white;
+}
+
+.photo {
+    margin-bottom: 70px;
+}
+
+.wed {
+    margin-bottom: 70px;
+}
+
+.russia {
+    margin-bottom: 70px;
+}
+
+h1 {
+    font-style: Snell Roundhand, cursive;
+}
+
+.ava {
+    width: 250px;
+}
